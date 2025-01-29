@@ -28,7 +28,7 @@
   "tabs": [
     {
       "name": "API Reference",
-      "url": "api-reference"
+      "url": "api-reference",
       "openapi": "https://api.metronome.com/v1/openapi.json"
     }
   ],
